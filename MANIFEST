@@ -2,6 +2,8 @@ Changes
 Makefile.PL
 MANIFEST
 README.md
+LICENSE
+CONTRIBUTING.md
 t/001_load.t
 t/002_query.t
 t/003_verify.t
@@ -13,3 +15,4 @@ lib/RPM/Query/Capability.pm
 scripts/perl-RPM-Query-capabilities.pl
 scripts/perl-RPM-Query-dependencies.pl
 scripts/perl-RPM-Query-dependencies-recursive.pl
+perl-RPM-Query.spec
