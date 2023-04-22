@@ -1,0 +1,15 @@
+Changes
+Makefile.PL
+MANIFEST
+README.md
+t/001_load.t
+t/002_query.t
+t/003_verify.t
+t/004_whatprovides.t
+t/005_provides.t
+lib/RPM/Query.pm
+lib/RPM/Query/Package.pm
+lib/RPM/Query/Capability.pm
+scripts/perl-RPM-Query-capabilities.pl
+scripts/perl-RPM-Query-dependencies.pl
+scripts/perl-RPM-Query-dependencies-recursive.pl
